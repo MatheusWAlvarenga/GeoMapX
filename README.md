@@ -36,4 +36,4 @@ Contributions to GeoMapX are welcome! If you find any problems or have suggestio
 If you have any questions or concerns about GeoMapX, please contact me.
 
 #
-![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Type Script](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
