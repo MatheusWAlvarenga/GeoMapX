@@ -1,8 +1,7 @@
 <h1 align="center">GeoMapX</h1>
 
  <div align="center">
-<img width="400" alt="Screen Shot 2023-05-15 at 15 13 26" src="https://github.com/MatheusWAlvarenga/GeoMapX/assets/94935750/a42a5776-df47-4690-bae2-887eda91960e">
-
+<img width="900" alt="ScreenShot 2023-05-15 at 15 13 26" src="https://github.com/MatheusWAlvarenga/GeoMapX/assets/94935750/a351e8ac-1e39-490c-a975-4f5d6fb4ada2">
 </div>
 
 ## Project Overview
