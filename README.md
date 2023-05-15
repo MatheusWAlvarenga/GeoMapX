@@ -5,9 +5,6 @@
 
 </div>
 
-
-
-
 ## Project Overview
 
 GeoMapX is a Next.js web application that allows users to explore and interact with maps using Google Maps based on the user's location.
@@ -36,7 +33,5 @@ To deploy the GeoMapX application, follow these steps:
 ## Contribute
 
 Contributions to GeoMapX are welcome! If you find any problems or have suggestions for improvement, feel free to create an issue or submit a pull request in the project's GitHub repository.
-
-## Contact
 
 If you have any questions or concerns about GeoMapX, please contact me.
