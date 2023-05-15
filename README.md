@@ -34,3 +34,6 @@ To deploy the GeoMapX application, follow these steps:
 Contributions to GeoMapX are welcome! If you find any problems or have suggestions for improvement, feel free to create an issue or submit a pull request in the project's GitHub repository.
 
 If you have any questions or concerns about GeoMapX, please contact me.
+
+#
+![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
